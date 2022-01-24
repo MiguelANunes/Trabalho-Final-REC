@@ -1,0 +1,1 @@
+tc qdisc add dev lo root netem loss 0.01 delay 100 rate 1gbit

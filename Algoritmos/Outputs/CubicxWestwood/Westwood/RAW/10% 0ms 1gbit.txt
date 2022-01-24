@@ -1,0 +1,20 @@
+Connecting to host 127.0.0.1, port 50000
+[  5] local 127.0.0.1 port 33812 connected to 127.0.0.1 port 50000
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  31.6 MBytes   265 Mbits/sec   66    128 KBytes       
+[  5]   1.00-2.00   sec  66.1 MBytes   555 Mbits/sec  104    256 KBytes       
+[  5]   2.00-3.00   sec  38.0 MBytes   319 Mbits/sec   74    128 KBytes       
+[  5]   3.00-4.00   sec  9.24 MBytes  77.5 Mbits/sec   25   63.9 KBytes       
+[  5]   4.00-5.00   sec  22.7 MBytes   190 Mbits/sec   42   63.9 KBytes       
+[  5]   5.00-6.00   sec  12.4 MBytes   104 Mbits/sec   18   63.9 KBytes       
+[  5]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec    2   63.9 KBytes       
+[  5]   7.00-8.00   sec  0.00 Bytes  0.00 bits/sec    0   63.9 KBytes       
+[  5]   8.00-9.00   sec  2.00 MBytes  16.8 Mbits/sec    8   63.9 KBytes       
+[  5]   9.00-10.00  sec  3.18 MBytes  26.7 Mbits/sec    9    128 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   185 MBytes   155 Mbits/sec  348             sender
+[  5]   0.00-10.00  sec   183 MBytes   154 Mbits/sec                  receiver
+
+iperf Done.
+

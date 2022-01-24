@@ -1,0 +1,11 @@
+0.00-1.00     28.2 MBytes   236 Mbits/sec   50    128 KBytes       
+1.00-2.00     17.1 MBytes   144 Mbits/sec   28    128 KBytes       
+2.00-3.00     26.4 MBytes   222 Mbits/sec   38    192 KBytes       
+3.00-4.00     9.06 MBytes  76.0 Mbits/sec   23    192 KBytes       
+4.00-5.00     19.7 MBytes   165 Mbits/sec   37    128 KBytes       
+5.00-6.00     14.6 MBytes   123 Mbits/sec   42    384 KBytes       
+6.00-7.00     28.7 MBytes   241 Mbits/sec   54    128 KBytes       
+7.00-8.00     14.1 MBytes   118 Mbits/sec   34   63.9 KBytes       
+8.00-9.00     27.2 MBytes   228 Mbits/sec   52    128 KBytes       
+9.00-10.00    25.0 MBytes   210 Mbits/sec   55    192 KBytes       
+0.00-10.00     210 MBytes   176 Mbits/sec  413             sender

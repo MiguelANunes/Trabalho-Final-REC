@@ -1,0 +1,337 @@
+Bitrate: 1gbits
+	Perda: 0.001%
+		Atraso: 0 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  575 Mbits/sec 0
+			1.00-2.00  503 Mbits/sec 0
+			2.00-3.00  503 Mbits/sec 0
+			3.00-4.00  598 Mbits/sec 0
+			4.00-5.00  650 Mbits/sec 0
+			5.00-6.00  503 Mbits/sec 0
+			6.00-7.00  503 Mbits/sec 0
+			7.00-8.00  493 Mbits/sec 0
+			8.00-9.00  493 Mbits/sec 0
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  493 Mbits/sec 0
+Bitrate: 1gbits
+	Perda: 0.001%
+		Atraso: 12.5 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  566 Mbits/sec 0
+			1.00-2.00  493 Mbits/sec 0
+			2.00-3.00  503 Mbits/sec 0
+			3.00-4.00  503 Mbits/sec 0
+			4.00-5.00  493 Mbits/sec 0
+			5.00-6.00  503 Mbits/sec 0
+			6.00-7.00  461 Mbits/sec 1
+			7.00-8.00  461 Mbits/sec 0
+			8.00-9.00  503 Mbits/sec 0
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  503 Mbits/sec 0
+Bitrate: 1gbits
+	Perda: 0.001%
+		Atraso: 100 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  557 Mbits/sec 0
+			1.00-2.00  503 Mbits/sec 0
+			2.00-3.00  503 Mbits/sec 0
+			3.00-4.00  493 Mbits/sec 0
+			4.00-5.00  493 Mbits/sec 0
+			5.00-6.00  503 Mbits/sec 0
+			6.00-7.00  493 Mbits/sec 0
+			7.00-8.00  503 Mbits/sec 0
+			8.00-9.00  503 Mbits/sec 0
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  503 Mbits/sec 0
+Bitrate: 1gbits
+	Perda: 0.001%
+		Atraso: 200 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  587 Mbits/sec 0
+			1.00-2.00  493 Mbits/sec 0
+			2.00-3.00  503 Mbits/sec 0
+			3.00-4.00  724 Mbits/sec 0
+			4.00-5.00  535 Mbits/sec 0
+			5.00-6.00  503 Mbits/sec 0
+			6.00-7.00  493 Mbits/sec 0
+			7.00-8.00  493 Mbits/sec 0
+			8.00-9.00  503 Mbits/sec 0
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  493 Mbits/sec 0
+Bitrate: 1gbits
+	Perda: 0.01%
+		Atraso: 0 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  628 Mbits/sec 2
+			1.00-2.00  472 Mbits/sec 0
+			2.00-3.00  493 Mbits/sec 0
+			3.00-4.00  503 Mbits/sec 0
+			4.00-5.00  503 Mbits/sec 0
+			5.00-6.00  503 Mbits/sec 0
+			6.00-7.00  514 Mbits/sec 0
+			7.00-8.00  503 Mbits/sec 0
+			8.00-9.00  503 Mbits/sec 0
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  503 Mbits/sec 0
+Bitrate: 1gbits
+	Perda: 0.01%
+		Atraso: 12.5 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  544 Mbits/sec 0
+			1.00-2.00  503 Mbits/sec 0
+			2.00-3.00  493 Mbits/sec 0
+			3.00-4.00  503 Mbits/sec 0
+			4.00-5.00  430 Mbits/sec 1
+			5.00-6.00  409 Mbits/sec 1
+			6.00-7.00  493 Mbits/sec 0
+			7.00-8.00  503 Mbits/sec 0
+			8.00-9.00  503 Mbits/sec 0
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  514 Mbits/sec 0
+Bitrate: 1gbits
+	Perda: 0.01%
+		Atraso: 100 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  556 Mbits/sec 0
+			1.00-2.00  514 Mbits/sec 0
+			2.00-3.00  493 Mbits/sec 0
+			3.00-4.00  503 Mbits/sec 0
+			4.00-5.00  503 Mbits/sec 0
+			5.00-6.00  493 Mbits/sec 0
+			6.00-7.00  503 Mbits/sec 0
+			7.00-8.00  493 Mbits/sec 0
+			8.00-9.00  503 Mbits/sec 0
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  713 Mbits/sec 0
+Bitrate: 1gbits
+	Perda: 0.01%
+		Atraso: 200 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  496 Mbits/sec 0
+			1.00-2.00  493 Mbits/sec 0
+			2.00-3.00  493 Mbits/sec 0
+			3.00-4.00  503 Mbits/sec 0
+			4.00-5.00  503 Mbits/sec 0
+			5.00-6.00  493 Mbits/sec 0
+			6.00-7.00  503 Mbits/sec 0
+			7.00-8.00  493 Mbits/sec 0
+			8.00-9.00  503 Mbits/sec 0
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  493 Mbits/sec 0
+Bitrate: 1gbits
+	Perda: 0.1%
+		Atraso: 0 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  563 Mbits/sec 0
+			1.00-2.00  734 Mbits/sec 1
+			2.00-3.00  598 Mbits/sec 1
+			3.00-4.00  755 Mbits/sec 1
+			4.00-5.00  556 Mbits/sec 0
+			5.00-6.00  703 Mbits/sec 0
+			6.00-7.00  755 Mbits/sec 1
+			7.00-8.00  608 Mbits/sec 2
+			8.00-9.00  514 Mbits/sec 1
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  535 Mbits/sec 0
+Bitrate: 1gbits
+	Perda: 0.1%
+		Atraso: 12.5 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  665 Mbits/sec 0
+			1.00-2.00  629 Mbits/sec 2
+			2.00-3.00  451 Mbits/sec 1
+			3.00-4.00  524 Mbits/sec 2
+			4.00-5.00  419 Mbits/sec 1
+			5.00-6.00  650 Mbits/sec 1
+			6.00-7.00  451 Mbits/sec 2
+			7.00-8.00  451 Mbits/sec 2
+			8.00-9.00  650 Mbits/sec 1
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  755 Mbits/sec 1
+Bitrate: 1gbits
+	Perda: 0.1%
+		Atraso: 100 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  462 Mbits/sec 1
+			1.00-2.00  608 Mbits/sec 1
+			2.00-3.00  713 Mbits/sec 0
+			3.00-4.00  703 Mbits/sec 0
+			4.00-5.00  713 Mbits/sec 1
+			5.00-6.00  629 Mbits/sec 3
+			6.00-7.00  482 Mbits/sec 1
+			7.00-8.00  577 Mbits/sec 3
+			8.00-9.00  608 Mbits/sec 1
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  692 Mbits/sec 1
+Bitrate: 1gbits
+	Perda: 0.1%
+		Atraso: 200 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  623 Mbits/sec 0
+			1.00-2.00  692 Mbits/sec 1
+			2.00-3.00  766 Mbits/sec 0
+			3.00-4.00  556 Mbits/sec 0
+			4.00-5.00  398 Mbits/sec 2
+			5.00-6.00  713 Mbits/sec 1
+			6.00-7.00  587 Mbits/sec 0
+			7.00-8.00  713 Mbits/sec 0
+			8.00-9.00  577 Mbits/sec 3
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  629 Mbits/sec 1
+Bitrate: 1gbits
+	Perda: 1%
+		Atraso: 0 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  665 Mbits/sec 9
+			1.00-2.00  535 Mbits/sec   12 512 KBytes
+			2.00-3.00  608 Mbits/sec 7
+			3.00-4.00  545 Mbits/sec   13 639 KBytes
+			4.00-5.00  409 Mbits/sec   13 448 KBytes
+			5.00-6.00  556 Mbits/sec 9
+			6.00-7.00  577 Mbits/sec 8
+			7.00-8.00  545 Mbits/sec   11   1.06 MBytes       
+
+			8.00-9.00  535 Mbits/sec   13 831 KBytes
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  524 Mbits/sec 9
+Bitrate: 1gbits
+	Perda: 1%
+		Atraso: 12.5 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  568 Mbits/sec   10      
+
+			1.00-2.00  570 Mbits/sec   11 703 KBytes
+			2.00-3.00  577 Mbits/sec 9
+			3.00-4.00  461 Mbits/sec   14   1.19 MBytes       
+
+			4.00-5.00  472 Mbits/sec   10      
+
+			5.00-6.00  577 Mbits/sec   20      
+
+			6.00-7.00  472 Mbits/sec   12 639 KBytes
+			7.00-8.00  493 Mbits/sec   12 767 KBytes
+			8.00-9.00  514 Mbits/sec   15 639 KBytes
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  524 Mbits/sec   11 703 KBytes
+Bitrate: 1gbits
+	Perda: 1%
+		Atraso: 100 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  500 Mbits/sec 9
+			1.00-2.00  514 Mbits/sec   12 576 KBytes
+			2.00-3.00  566 Mbits/sec   11 320 KBytes
+			3.00-4.00  524 Mbits/sec   10      
+
+			4.00-5.00  524 Mbits/sec 9
+			5.00-6.00  650 Mbits/sec   11 512 KBytes
+			6.00-7.00  535 Mbits/sec 9
+			7.00-8.00  482 Mbits/sec   13 767 KBytes
+			8.00-9.00  472 Mbits/sec   11 576 KBytes
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  975 Mbits/sec   16 895 KBytes
+Bitrate: 1gbits
+	Perda: 1%
+		Atraso: 200 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  562 Mbits/sec 6
+			1.00-2.00  556 Mbits/sec   10      
+
+			2.00-3.00  514 Mbits/sec 8
+			3.00-4.00  577 Mbits/sec 7
+			4.00-5.00  598 Mbits/sec 7
+			5.00-6.00  577 Mbits/sec 9
+			6.00-7.00  493 Mbits/sec   13 448 KBytes
+			7.00-8.00  545 Mbits/sec   12 831 KBytes
+			8.00-9.00  524 Mbits/sec   12 831 KBytes
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  577 Mbits/sec   13 512 KBytes
+Bitrate: 1gbits
+	Perda: 10%
+		Atraso: 0 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  173 Mbits/sec   54   63.9 KBytes       
+
+			1.00-2.00  121 Mbits/sec   28 128 KBytes
+			2.00-3.00  114 Mbits/sec   29 192 KBytes
+			3.00-4.00 77.0 Mbits/sec   24 128 KBytes
+			4.00-5.00  142 Mbits/sec   40   63.9 KBytes       
+
+			5.00-6.00  197 Mbits/sec   40   63.9 KBytes       
+
+			6.00-7.00  147 Mbits/sec   33 384 KBytes
+			7.00-8.00  177 Mbits/sec   34 128 KBytes
+			8.00-9.00  295 Mbits/sec   60      
+
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  120 Mbits/sec   29 256 KBytes
+Bitrate: 1gbits
+	Perda: 10%
+		Atraso: 12.5 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  236 Mbits/sec   50      
+
+			1.00-2.00  144 Mbits/sec   28 128 KBytes
+			2.00-3.00  222 Mbits/sec   38 192 KBytes
+			3.00-4.00 76.0 Mbits/sec   23 192 KBytes
+			4.00-5.00  165 Mbits/sec   37 128 KBytes
+			5.00-6.00  123 Mbits/sec   42 384 KBytes
+			6.00-7.00  241 Mbits/sec   54 128 KBytes
+			7.00-8.00  118 Mbits/sec   34   63.9 KBytes       
+
+			8.00-9.00  228 Mbits/sec   52 128 KBytes
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  210 Mbits/sec   55 192 KBytes
+Bitrate: 1gbits
+	Perda: 10%
+		Atraso: 100 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  259 Mbits/sec   46 192 KBytes
+			1.00-2.00  137 Mbits/sec   36 128 KBytes
+			2.00-3.00  123 Mbits/sec   26   63.9 KBytes       
+
+			3.00-4.00 85.4 Mbits/sec   25 192 KBytes
+			4.00-5.00  161 Mbits/sec   40      
+
+			5.00-6.00 0.00 bits/sec 2
+			6.00-7.00 72.3 Mbits/sec   22   63.9 KBytes       
+
+			7.00-8.00  225 Mbits/sec   54 192 KBytes
+			8.00-9.00  269 Mbits/sec   62 128 KBytes
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  205 Mbits/sec   47 256 KBytes
+Bitrate: 1gbits
+	Perda: 10%
+		Atraso: 200 ms
+			Instante | Bitrate | Pacotes Perdidos
+			0.00-1.00  167 Mbits/sec   37 128 KBytes
+			1.00-2.00  161 Mbits/sec   31 256 KBytes
+			2.00-3.00 7.86 Mbits/sec 6
+			3.00-4.00 38.3 Mbits/sec   14 128 KBytes
+			4.00-5.00  192 Mbits/sec   32 128 KBytes
+			5.00-6.00 74.4 Mbits/sec   15   63.9 KBytes       
+
+			6.00-7.00 0.00 bits/sec 1
+			7.00-8.00 0.00 bits/sec 4
+			8.00-9.00  144 Mbits/sec   32 192 KBytes
+			****************************
+			Bitrate Médio e Perda Total:
+			9.00-10.00  335 Mbits/sec   61 128 KBytes

@@ -1,0 +1,11 @@
+0.00-1.00     43.7 MBytes   367 Mbits/sec    2    448 KBytes       
+1.00-2.00     53.8 MBytes   451 Mbits/sec    0   2.62 MBytes       
+2.00-3.00     67.5 MBytes   566 Mbits/sec    1    831 KBytes       
+3.00-4.00     38.8 MBytes   325 Mbits/sec    1   1.94 MBytes       
+4.00-5.00     35.0 MBytes   294 Mbits/sec    1   1.44 MBytes       
+5.00-6.00     55.0 MBytes   461 Mbits/sec    0   3.00 MBytes       
+6.00-7.00     75.0 MBytes   629 Mbits/sec    0   3.12 MBytes       
+7.00-8.00     63.8 MBytes   535 Mbits/sec    1    831 KBytes       
+8.00-9.00     45.0 MBytes   377 Mbits/sec    0   2.56 MBytes       
+9.00-10.00    55.0 MBytes   461 Mbits/sec    1   1.56 MBytes       
+0.00-10.00     532 MBytes   447 Mbits/sec    7             sender
