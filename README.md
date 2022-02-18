@@ -4,7 +4,7 @@
   
 1. Executar o comando:
  
-    python3 input_generator.py
+    ``python3 input_generator.py``
     
     Isso vai gerar os arquivos de input para o executar os testes
   
