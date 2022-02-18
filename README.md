@@ -8,20 +8,20 @@
     
     Isso vai gerar os arquivos de input para o executar os testes
   
-    1.5. Na pasta onde estão os resultados do algoritmo acima, executar o comando
+2. Na pasta onde estão os resultados do algoritmo acima, executar o comando
   
-        chmod +x clean netem*
+    ``chmod +x clean netem*``
         
-        Isso dá permissão de execução para os arquivos gerados pelo algoritmo acima, necessário para o próximo passo
+    Isso dá permissão de execução para os arquivos gerados pelo algoritmo acima, necessário para o próximo passo
        
-2. Executar o comando:
+3. Executar o comando:
 
-    chmod +x auto_tester.sh; ./auto_tester.sh
+    ``chmod +x auto_tester.sh; ./auto_tester.sh``
     
     Isso irá iniciar a execução dos testes. Os testes levam aproximadamente 20 minutos para serem concluidos
    
-3. (Opicional) Executar o comando:
+4. (Opicional) Executar o comando:
  
-    python3 parser.py
+    ``python3 parser.py``
       
     Isso vai processar os arquivos gerados pelo passo acima em um formato mais simples e condensado.
