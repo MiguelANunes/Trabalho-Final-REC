@@ -68,7 +68,6 @@ def parse(algoritmo1, algoritmo2, path, end_path, lista_arquivos):
 
                 temp_list.append(f)
             
-            temp_list.pop() # ultimo caractere é um \n
             file_contents = temp_list
 
             temp_string = "Instante | Bitrate | Pacotes Perdidos"
